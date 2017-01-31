@@ -1,0 +1,7 @@
+# cycle bash completion
+Control-n: menu-complete
+Control-j: menu-complete
+Control-k: menu-complete-backward
+
+# display one column with matches
+#set completion-display-width 1
