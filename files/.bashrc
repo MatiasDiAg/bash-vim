@@ -19,9 +19,10 @@ alias rm='trash-put'
 
 # rutas
 alias cdp='cd ~/usr/prac'
-alias cdda='cd ~/usr/prac/da/DIAZ_AGUIRRE_MATIAS'
+alias cds='cd ~/usr/src'
 
 # otros
+alias cls='clear'
 alias xo='xdg-open'
 alias gvim='gvim 2>/dev/null'
 
